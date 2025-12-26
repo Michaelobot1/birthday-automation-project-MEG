@@ -1,0 +1,5 @@
+pandas
+Pillow
+selenium
+webdriver-manager
+requests
